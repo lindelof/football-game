@@ -1,0 +1,25 @@
+{
+  "name": "football-game",
+  "version": "1.0.0",
+  "description": "a html football-game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindelof/football-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindelof/football-game/issues"
+  },
+  "homepage": "https://github.com/lindelof/football-game#readme",
+  "dependencies": {
+    "pixi": "^0.3.1",
+    "pixi.js": "^5.2.0",
+    "proton-engine": "^4.1.0",
+    "raf-manager": "^0.3.0"
+  }
+}
