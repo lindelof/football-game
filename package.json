@@ -18,6 +18,7 @@
   "homepage": "https://github.com/lindelof/football-game#readme",
   "dependencies": {
     "pixi": "^0.3.1",
+    "pixi-filters": "^3.0.3",
     "pixi.js": "^5.2.0",
     "proton-engine": "^4.1.0",
     "raf-manager": "^0.3.0"
